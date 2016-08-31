@@ -11,14 +11,14 @@
  */
 /**
  * Plugin Name: User Hover Card
- * Plugin URI: http://store.q2amarket.com/user-hover-card
+ * Plugin URI: http://question2answer.club/download/user-hovercard/
  * Plugin Description: Display user info on hover the user link or avatar.
  * Plugin Version: 1.0.0-beta
  * Plugin Date: 2016-08-23
  * Plugin Author: Q2A Market
  * Plugin Author URI: http://q2amarket.com
  * Plugin License: GPLv3+
- * Plugin Update Check URI: http://store.q2amarket.com/user-hover-card/update
+ * Plugin Update Check URI: https://raw.githubusercontent.com/q2amarket/q2amarket-user-hover-card/master/metadata.json
  * Plugin Minimum Question2Answer Version: 1.7.4
  * Plugin Minimum PHP Version: 5.6
  */
