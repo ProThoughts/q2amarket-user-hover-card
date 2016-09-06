@@ -20,7 +20,7 @@
  * Plugin License: GPLv3+
  * Plugin Update Check URI: https://raw.githubusercontent.com/q2amarket/q2amarket-user-hover-card/master/metadata.json
  * Plugin Minimum Question2Answer Version: 1.7.4
- * Plugin Minimum PHP Version: 5.6
+ * Plugin Minimum PHP Version: 5.2
  */
 
 if ( ! defined( 'QA_VERSION' ) ) { // don't allow this page to be requested directly from browser

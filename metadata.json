@@ -9,5 +9,5 @@
   "license": "GPLv3+",
   "update_uri": "https://raw.githubusercontent.com/q2amarket/q2amarket-user-hover-card/master/metadata.json",
   "min_q2a": "1.7.4",
-  "min_php": "5.6"
+  "min_php": "5.2"
 }
